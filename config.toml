@@ -23,3 +23,6 @@ publishDir = "docs"  # GitHub Pages can serve from /docs folder
   [[params.navlinks]]
   name = "photos/"
   url = "photos/"
+
+[[module.imports]]
+  path = "github.com/mrmierzejewski/hugo-theme-console"
